@@ -23,7 +23,6 @@ Meu nome é Tayane, tenho 23 anos, curiosa e apaixonada por jogos e tecnologia, 
 
 
 
-
 <!--
 **thaysouza/thaysouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
