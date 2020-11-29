@@ -11,10 +11,6 @@ Meu nome é Tayane, tenho 23 anos, curiosa e apaixonada por jogos e tecnologia, 
   <a href="https://www.linkedin.com/in/tayane-souza-61410a1b3/" target="_blank">
  <img align="center" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-plain.svg" height="30" width="30" style="max-width:100%;"> 
  </a>
-
- <a href="api.whatsapp.com/send?1=pt_BR&phone=5511959395770" target="_blank">
- <img align="center" src="https://edercarlosdalberto.com.br/wp-content/uploads/2020/07/logo-whatsapp-png-transparente8.png" height="30" width="30" style="max-width:100%;"> 
- </a>
  
  <h3>Estudando essas tecnologias :</h3>
 <img align="center" src="https://image.flaticon.com/icons/png/512/919/919830.png" height="30" width="40" style="max-width:100%;"> 
