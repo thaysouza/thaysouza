@@ -12,11 +12,10 @@ Meu nome é Tayane, tenho 23 anos, curiosa e apaixonada por jogos e tecnologia, 
  <img align="center" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-plain.svg" height="30" width="30" style="max-width:100%;"> 
  </a>
  
- <h3>Estudando essas tecnologias :</h3>
+ <h3>Skills</h3>
 <img align="center" src="https://image.flaticon.com/icons/png/512/919/919830.png" height="30" width="40" style="max-width:100%;"> 
 <img align="center" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" height="30" width="40" style="max-width:100%;"> 
 <img align="center" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="30" width="40" style="max-width:100%;"> 
-<img align="center" src="https://devicon.dev/devicon.git/icons/react/react-original.svg" height="30" width="40" style="max-width:100%;"> 
 <img align="center" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" height="30" width="40" style="max-width:100%;"> <br><br>
 
 
