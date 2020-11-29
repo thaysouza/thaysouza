@@ -17,6 +17,9 @@ Meu nome é Tayane, tenho 23 anos, curiosa e apaixonada por jogos e tecnologia, 
 <img align="center" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" height="30" width="40" style="max-width:100%;"> 
 <img align="center" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="30" width="40" style="max-width:100%;"> 
 <img align="center" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" height="30" width="40" style="max-width:100%;"> <br><br>
+<img align="center" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="30" width="40" style="max-width:100%;"> <br><br>
+
+
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaysouza&layout=compact)](https://github.com/thaysouza/github-readme-stats)
