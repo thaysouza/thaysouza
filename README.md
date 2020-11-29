@@ -16,7 +16,7 @@ Meu nome é Tayane, tenho 23 anos, curiosa e apaixonada por jogos e tecnologia, 
 <img align="center" src="https://image.flaticon.com/icons/png/512/919/919830.png" height="2%" width="4%"> 
 <img align="center" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" height="2%" width="4%"> 
 <img align="center" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="2%" width="4%"> 
-<img align="center" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg "height="2%" width="4%">
+<img align="center" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" "height="2%" width="4%">
 <img align="center" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="2%" width="4%"> <br><br>
 
 
