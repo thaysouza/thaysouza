@@ -16,7 +16,7 @@ Meu nome é Tayane, tenho 23 anos, apaixonada por jogos e tecnologia, buscando c
 <img align="center" src="https://image.flaticon.com/icons/png/512/919/919830.png" height="30" width="40" style="max-width:4%;"></img> 
 <img align="center" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" height="30" width="40"></img>  
 <img align="center" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="30" width="40"></img> 
-<img align="center" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" "height="30" width="40"></img>
+<img align="center" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" "height="30" width="30"></img>
 <img align="center" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="30" width="40"> <br><br></img>
 
 <img align="center" src="https://devforum.roblox.com/uploads/default/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif" height="20%" width="40%">
