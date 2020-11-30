@@ -19,7 +19,7 @@ Meu nome é Tayane, tenho 23 anos, apaixonada por jogos e tecnologia, buscando c
 <img align="center" src="https://devicon.dev/devicon.git/icons/css3/css3-original.svg" "height="2%" width="4%"></img>
 <img align="center" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="2%" width="4%"> <br><br></img>
 
-
+<img align="center" src="https://devforum.roblox.com/uploads/default/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif" height="20%" width="40%">
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaysouza&layout=compact)](https://github.com/thaysouza/github-readme-stats)
