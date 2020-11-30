@@ -6,8 +6,8 @@ Meu nome é Tayane, tenho 23 anos, apaixonada por jogos e tecnologia, buscando c
  :books: 4/6 Gestão da Tecnologia da Informação | Fatec<br>
 👩🏻‍💻  FullStack Development Student | Recode <br>
  :video_game: League of legends
- <h4><b>"O que sabemos é uma gota, o que ignoramos é um oceano" :brain:<b><h4>
- <h2>Encontre-me por aqui<h2>
+ <h5><b>"O que sabemos é uma gota, o que ignoramos é um oceano" :brain:<b><h5>
+ <h3><b>Encontre-me por aqui :<b></h3>
   <a href="https://www.linkedin.com/in/tayane-souza-61410a1b3/" target="_blank">
  <img align="center" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-plain.svg" height="2%" width="4%"> 
  </a>
