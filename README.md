@@ -1,7 +1,5 @@
 ### Hello world :earth_americas:
 
-Meu nome é Tayane, tenho 23 anos, apaixonada por jogos e tecnologia, buscando cada dia mais aprender e estar mais proxima do Full Stack!	:dart:
-
  :computer: Front-end Jr. <br>
  :books: 4/6 Gestão da Tecnologia da Informação | Fatec<br>
 👩🏻‍💻  FullStack Development Student | Recode <br>
