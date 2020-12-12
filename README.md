@@ -1,4 +1,4 @@
-### Hello world :earth_americas:
+### Hello :earth_americas:
 
  :computer: Front-end Jr. <br>
  :books: 4/6 Gestão da Tecnologia da Informação | Fatec<br>
