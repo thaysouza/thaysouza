@@ -7,15 +7,15 @@
  <h5><b>"O que sabemos é uma gota, o que ignoramos é um oceano" :brain:<b><h5>
  <h3><b>Encontre-me por aqui :<b></h3>
   <a href="https://www.linkedin.com/in/tayane-souza-61410a1b3/" target="_blank">
- <img align="center" src="https://devicon.dev/devicon.git/icons/linkedin/linkedin-plain.svg" height="30" width="40"> 
+ <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="50" width="40"> 
  </a>
  
  <h3><b>Minhas Skills : </b></h3>
-<img align="center" src="https://image.flaticon.com/icons/png/512/919/919830.png" height="30" width="40" style="max-width:4%;"></img> 
-<img align="center" src="https://devicon.dev/devicon.git/icons/bootstrap/bootstrap-plain.svg" height="30" width="40"></img>  
-<img align="center" src="https://devicon.dev/devicon.git/icons/javascript/javascript-original.svg" height="30" width="40"></img> 
-<img align="center" src="https://www.flaticon.com/svg/static/icons/svg/732/732190.svg" "height="30" width="30"></img>
-<img align="center" src="https://devicon.dev/devicon.git/icons/html5/html5-original.svg" height="30" width="40"> <br><br></img><br>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="30" width="50" style="max-width:4%;"></img> 
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" height="30" width="40"></img>  
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" height="30" width="40"></img> 
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" "height="30" width="30"></img>
+<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" height="30" width="40"> <br><br></img><br>
 
 <img align="center" src="https://devforum.roblox.com/uploads/default/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif" height="200" width="400"><br>
 
