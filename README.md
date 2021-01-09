@@ -10,9 +10,6 @@
  <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-plain.svg" height="50" width="40"> 
  </a>
   
-   <a href="https://www.instagram.com/thay._.ss/" target="_blank">
- <img align="center" src="https://www.campolargo.pr.leg.br/imagens/instagram.png/image" height="40" width="40"> 
- </a>
  
  <h3><b>Minhas Skills : </b></h3>
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" height="50" width="50" style="max-width:4%;"></img> 
