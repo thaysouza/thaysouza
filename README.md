@@ -1,7 +1,7 @@
 ### Hello :earth_americas:
 
  :computer: Front-end Jr. <br>
- :books: 5/6 Gestão da Tecnologia da Informação | Fatec<br>
+ :books: 4/6 Gestão da Tecnologia da Informação | Fatec<br>
 👩🏻‍💻  FullStack Development Student | Recode <br>
  
  <h5><b>"O que sabemos é uma gota, o que ignoramos é um oceano" :brain:<b><h5>
