@@ -1,6 +1,6 @@
 ### Hello :earth_americas:
 
- :computer: Front-end Jr. <br>
+ :computer: Full Stack Development Jr. <br>
  :books: 4/6 Gestão da Tecnologia da Informação | Fatec<br>
 👩🏻‍💻  FullStack Development Student | Recode <br>
  
