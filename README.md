@@ -2,7 +2,7 @@
 
  :computer: Full Stack Development Jr. <br>
  :books: 4/6 Gestão da Tecnologia da Informação | Fatec<br>
-👩🏻‍💻  FullStack Development Student | Recode <br>
+👩🏻‍💻  FullStack Development | Recode <br>
  
  <h5><b>"O que sabemos é uma gota, o que ignoramos é um oceano" :brain:<b><h5>
  <h3><b>Encontre-me por aqui :<b></h3>
