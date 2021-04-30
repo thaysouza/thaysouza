@@ -14,8 +14,6 @@
 <img align="center" src="https://devforum.roblox.com/uploads/default/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif" height="200" width="400"><br>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=thaysouza&layout=compact)](https://github.com/thaysouza/github-readme-stats)
-
 
 <!--
 **thaysouza/thaysouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
