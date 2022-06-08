@@ -1,14 +1,15 @@
 ### Hello :earth_americas:
 
- :computer: Full Stack Development Jr. <br>
+ :computer: Front End Development. <br>
+ 👩🏻‍💻  Estagiária - ProScore. <br>
  :books: 6/6 Gestão da Tecnologia da Informação | Fatec<br>
-👩🏻‍💻  Full Stack Developer | Recode <br>
+ :books:  Full Stack Developer | Recode <br>
  
  <h5><b>"A persistência é o caminho do êxito" 🚀<b><h5>
  
   <div>
-  <a href="https://github.com/thaysouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaysouza&layout=compact&langs_count=7&theme=dracula"/>
+<!--   <a href="https://github.com/thaysouza">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thaysouza&layout=compact&langs_count=7&theme=dracula"/> -->
    </div> </br>
  
  <div> 
