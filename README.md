@@ -1,6 +1,6 @@
 ### Hello :earth_americas:
 
- :computer: Front End Development. <br>
+ :computer: Full Stack Development. <br>
  :books: 6/6 Gestão da Tecnologia da Informação | Fatec<br>
  :books:  Full Stack Developer | Recode <br>
  
