@@ -1,7 +1,7 @@
 ### Hello :earth_americas:
 
  :computer: Full Stack Development. <br>
- :books: 6/6 Gestão da Tecnologia da Informação | Fatec<br>
+ :books: Gestão da Tecnologia da Informação | Fatec<br>
  :books:  Full Stack Developer | Recode <br>
  
  <h5><b>"A persistência é o caminho do êxito" 🚀<b><h5>
